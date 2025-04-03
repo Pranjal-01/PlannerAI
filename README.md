@@ -1,1 +1,1 @@
-# PlannerAI
+# SearchAI
